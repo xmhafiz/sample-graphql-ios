@@ -1,0 +1,6 @@
+{
+    allVehicles {
+        name
+        model
+    }
+}
