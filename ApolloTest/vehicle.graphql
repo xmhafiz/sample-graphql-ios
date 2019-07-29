@@ -1,5 +1,5 @@
-{
-    allVehicles {
+query Vehicles ($orderBy: VehicleOrderBy) {
+    allVehicles(orderBy: $orderBy) {
         name
         model
     }
