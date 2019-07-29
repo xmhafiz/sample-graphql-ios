@@ -12,6 +12,9 @@ https://api.graph.cool/simple/v1/swapi
 - Cocoapod
 - Apollo 0.13.0
 
+### How to
+Follow the [Official Guide](https://www.apollographql.com/docs/) and refer bellow points if got some issues
+
 ### To manually generate API.swift based on *.graphql files and schema.json (bit different than docs)
 
 ```
